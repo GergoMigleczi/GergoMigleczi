@@ -1,4 +1,4 @@
-- Hi, I’m @GergoMigleczi
+- Hi, I’m Gergo Migleczi
 - I’m interested in Software development
 - I’m currently looking for an apprenticeship in the UK!
 - Email: gergo@migleczi.co.uk
